@@ -1,6 +1,6 @@
 # Интеграция AppImage пакетов в систему
 
-[TOC]
+Смотреть на [GitHub](https://github.com/michailkrasnov/appimages).
 
 ## Введение
 
